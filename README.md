@@ -1,4 +1,3 @@
-```markdown
 # Babylon.js Furniture Visualizer
 
 A simple web-based application built with Babylon.js to create a virtual room where users can place and interact with 3D furniture models.
@@ -17,20 +16,6 @@ A simple web-based application built with Babylon.js to create a virtual room wh
 
 This project follows a simple, organized file structure to make it easy to manage and expand.
 
-```
-
-/my-babylon-project
-|-- index.html          \# The main HTML file to run the application
-|-- assets/             \# Folder for all 3D models and textures
-|   |-- furniture.glb
-|   |-- textures/
-|       |-- my\_texture.jpg
-|-- js/                 \# Folder for all JavaScript files
-|   |-- main.js         \# Contains all the Babylon.js scene logic
-|-- css/                \# Folder for all CSS styles
-|   |-- style.css       \# Contains the styling for the UI and canvas
-
-```
 
 ## How to Run
 
@@ -55,4 +40,3 @@ This project follows a simple, organized file structure to make it easy to manag
 * Allowing the user to upload their own `.glb` files.
 
 * Creating a user interface to control lighting and room colors.
-```

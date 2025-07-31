@@ -43,7 +43,7 @@ This project follows a simple, organized file structure to make it easy to manag
 
 ## Project Structure
 ```
-/my-babylon-project
+/Furniture-Visualizer
 |-- index.html          # The main HTML file to run the application
 |-- assets/             # Folder for all 3D models and textures
 |   |-- furniture.glb
